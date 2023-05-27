@@ -1,0 +1,14 @@
+fastapi~=0.95.1
+uvicorn
+pytest~=7.3.1
+pytest-asyncio
+starlette~=0.26.1
+flake8
+requests
+httpx
+pydantic~=1.10.7
+databases~=0.7.0
+SQLAlchemy~=1.4.48
+python-dotenv
+asyncpg
+slowapi
